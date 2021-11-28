@@ -1,2 +1,3 @@
 rootProject.name = "IntentService"
 include ':app'
+include ':services'
